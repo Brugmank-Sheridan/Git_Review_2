@@ -24,7 +24,8 @@ public class GitReview2 {
         System.out.println("Git Practice number 2");
             
         System.out.println("Modified from GitHub");
-        // TODO code application logic here
+       
+        System.out.println("This is the second example");
     }
 
 }
